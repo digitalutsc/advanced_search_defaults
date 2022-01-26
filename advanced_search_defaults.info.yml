@@ -1,0 +1,11 @@
+name: advanced_search_defaults
+type: module
+description: 'This module contains default configs of view, blocks setup for Advanced Search'
+core: 8.x
+package: Custom
+dependencies:
+  - image
+  - search_api
+  - advanced_search
+  - context
+  - islandora

@@ -1,0 +1,13 @@
+{
+    "name": "advanced_search_defaults",
+    "type": "drupal-module",
+    "description": "This module contains default configs of view, blocks setup for Advanced Search",
+    "keywords": [
+    ],
+    "homepage": "https://www.drupal.org/project/advanced_search_defaults",
+    "minimum-stability": "dev",
+    "support": {
+        "issues": "https://www.drupal.org/project/issues/advanced_search_defaults",
+        "source": "http://cgit.drupalcode.org/advanced_search_defaults",
+    },
+}
